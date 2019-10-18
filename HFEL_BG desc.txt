@@ -1,0 +1,23 @@
+2.4.0 compatible
+
+This mod adds support for 1250 and 1500 star galaxies which both support 13 fallen empires.
+
+The Galaxy types are called:
+
+HFE 1250 
+
+HFE 1500 
+
+Both allow for [b]13 fallen empires.[/b]
+
+Compatible with all mods, no overrides.
+
+Known bug: Using random amounts of fallen empires limits the number to vanilla values.
+
+[b] USE WITH A MOD THAT ADDS STAR NAMES IF USING 1500 STARS[/b]
+
+Needs to be in [b]use with mods that add more fallen empires[/b] as there are only 5 vanilla fallen empires.
+
+For more fallen empires, try looking at my other mod:  [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1812858232]Extra Fallen Empires[/url] Which adds 8 more, to make a total of 13 fallen empires in the game.
+
+Use with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1813260692]Higher Fallen Empire limit[/url] so that the vanilla galaxy sizes allow for 13 fallen empires.
